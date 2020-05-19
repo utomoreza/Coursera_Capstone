@@ -4,9 +4,11 @@ For this markdown, we're going to define the following:
 - A description of the problem and a discussion of the background.
 - A description of the data and how it will be used to solve the problem.
 
+You can find the continuation of this markdown in [this notebook](FinalAssignment-Week2.ipynb).
+
 ## Introduction
 
-This in the introductory section of the final assignment of [IBM Applied Data Science Capstone course on Coursera](https://www.coursera.org/learn/applied-data-science-capstone). Here, the students are asked to be as creative as they want to implement Foursquare API and clustering algorithm to explore or compare neighborhoods or cities of their choice. Based on that instructions, I decided to compare neighborhoods in Sydney and London.
+This in the introductory section of the final assignment of [IBM Applied Data Science Capstone course on Coursera](https://www.coursera.org/learn/applied-data-science-capstone). Here, the students are asked to be as creative as they want to implement Foursquare API and clustering algorithm to explore or compare neighborhoods or cities of their choice. Based on that instructions, __I decided to compare neighborhoods in Sydney and London__.
 
 ### Background
 
