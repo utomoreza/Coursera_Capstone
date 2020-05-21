@@ -14,6 +14,7 @@ As references, below links provide what other students of the course have done f
 - [@lucaguerretta](https://github.com/lucaguerretta/Applied-Data-Science-Capstone/blob/master/Capstone%20-%20The%20Battle%20of%20Neighborhoods%20-%20LG%20-%20Final.ipynb)
 - [Project for Applied Data Science Capstone on Coursera](https://medium.com/@rajivranjansingh_77828/project-for-applied-data-science-capstone-on-coursera-95ba3b39a6ca)
 - [Housing Sales Prices & Venues Data Analysis of Istanbul](https://www.linkedin.com/pulse/housing-sales-prices-venues-data-analysis-ofistanbul-sercan-y%C4%B1ld%C4%B1z/)
+- [Clustering European cities](https://medium.com/@soumyagamer/clustering-european-cities-8454651bc4a0)
 
 Feel free if you'd like to clone or download the repo.
 
