@@ -8,9 +8,15 @@ You can find the continuation of this markdown in [this notebook](FinalAssignmen
 
 ## Introduction
 
-This in the introductory section of the final assignment of [IBM Applied Data Science Capstone course on Coursera](https://www.coursera.org/learn/applied-data-science-capstone). Here, the students are asked to be as creative as they want to implement Foursquare API and clustering algorithm to explore or compare neighborhoods or cities of their choice. Based on that instructions, __I decided to compare neighborhoods in Sydney and London__.
+This in the introductory section of the final assignment of [IBM Applied Data Science Capstone course on Coursera](https://www.coursera.org/learn/applied-data-science-capstone). Here, the students are asked to be as creative as they want to implement Foursquare API and clustering algorithm to explore or compare neighborhoods or cities of their choice. Based on that instructions, __I decided to explore and cluster what is nearby each of top 100 world-class universities__.
+
+__I decided to compare neighborhoods in Sydney and London__.
 
 ### Background
+
+[Times Higher Education](https://www.timeshighereducation.com/) (THE) is a credibel and trusted insitution which annually releases [world university rankings](https://www.timeshighereducation.com/world-university-rankings/2020/world-ranking#!/page/0/length/100/sort_by/rank/sort_order/asc/cols/stats). This rankings are based on a selective, transparent, and comprehensive [methodology](https://www.timeshighereducation.com/world-university-rankings/world-university-rankings-2020-methodology). Therefore, they always become a reference for the higher education world. Even many prospective students in the world use its rankings to choose their university of destination for undergraduate and postgraduate study.
+
+However, since THE's methodology is based on the education-centric aspects only, sometimes it is not easy for the prospective students to decide which higher education institution has proper neighborhoods for their college life later at the university. Although THE occassionalyly [publishes articles](https://www.timeshighereducation.com/student/best-universities) related to the best universities for certain kind of students, it still does not have any recommendation regarding the neighborhoods of, for example, top 100 world-best universities. Hence, in this article, we're going to explore the neighborhoods of those top 100 and cluster them in order to gain insight which institutions have similar neighborhoods.
 
 Sydney is the state capital of New South Wales and the most populous city in Australia and Oceania. Located on Australia's east coast, the metropolis surrounds Port Jackson and extends about 70 km (43.5 mi) on its periphery towards the Blue Mountains to the west, Hawkesbury to the north, the Royal National Park to the south and Macarthur to the south-west. Sydney is made up of 658 suburbs, 40 local government areas and 15 contiguous regions. Residents of the city are known as "Sydneysiders". As of June 2019, Sydney's estimated metropolitan population was 5,312,163 and is home to approximately 65% of the state's population.[[1]](https://en.wikipedia.org/wiki/Sydney)
 

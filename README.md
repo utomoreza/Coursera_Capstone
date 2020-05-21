@@ -5,7 +5,7 @@ This repo contains all files and folders for the course of [Applied Data Science
 The course is about to utilise Foursquare API to gather data and to implement clustering algorithm to segment such data. There are three kinds of analysis used in this repo, i.e.:
 1. [New York neighbourhoods](3-Neighborhoods-New-York.ipynb)
 2. [Toronto neighbourhoods](4-Toronto.ipynb)
-3. [Sydney and London comparions](FinalAssignment-Week1.md)
+3. [What is around each of top 100 world-class universities?](FinalAssignment-Week1.md)
 
 As references, below links provide what other students of the course have done for the project:
 - [Exploring venues in Chandigarh, India using Foursquare and Zomato API](https://towardsdatascience.com/exploring-chandigarh-india-using-foursquare-and-zomato-api-1d4501291320)
