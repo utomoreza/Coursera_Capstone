@@ -1,0 +1,101 @@
+,Institution Name,City/Town,Country,Address,Latitude,Longitude
+0,Massachusetts Institute of Technology (MIT),Cambridge,United States,"77 Massachusetts Avenue Cambridge, United States",42.35891737166005,-71.09346063887153
+1,Stanford University,Stanford,United States,"450 Serra Mall Stanford, United States",37.426896,-122.1705135
+2,Harvard University,Cambridge,United States,"1350 Massachusetts Avenue Cambridge, United States",42.372648,-71.118657
+3,University of Oxford,Oxford,United Kingdom,"Wellington Square Oxford, United Kingdom",51.75736671362782,-1.2625475347603166
+4,California Institute of Technology (Caltech),Pasadena,United States,"1200 East California Boulevard Pasadena, United States",34.13909700000001,-118.12386599999999
+5,ETH Zurich - Swiss Federal Institute of Technology,Zürich,Switzerland,"Raemistrasse 101 Zürich, Switzerland",47.37621781101033,8.548774722517676
+6,University of Cambridge,Cambridge,United Kingdom,"The Old Schools, Trinity Lane Cambridge, United Kingdom",52.20622323042167,0.11637208202812237
+7,UCL,London,United Kingdom,"University College London, Gower Street London, United Kingdom",51.52460000000008,-0.13479999999992742
+8,Imperial College London,London,United Kingdom,"South Kensington London, United Kingdom",51.49807000000004,-0.17403999999993403
+9,University of Chicago,Chicago,United States,"Edward H. Levi Hall, 5801 South Ellis Avenue Chicago, United States",41.789574000000016,-87.60092399999999
+10,"Nanyang Technological University, Singapore (NTU)",Singapore,Singapore,"50 Nanyang Avenue Singapore, Singapore",1.3462290000000081,103.68277649999999
+11,National University of Singapore (NUS),Singapore,Singapore,"21 Lower Kent Ridge Road Singapore, Singapore",1.2979890000000012,103.77812699999998
+12,Princeton University,Princeton,United States,"Princeton University Princeton, United States",40.3495400656405,-74.6600899173385
+13,Cornell University,Ithaca,United States,"144 East Avenue Ithaca, United States",42.44720326672056,-76.48275189012614
+14,University of Pennsylvania,Philadelphia,United States,"University of Pennsylvania Philadelphia, United States",39.953050000000076,-75.19401999999997
+15,Tsinghua University,Beijing,China,"30 Shuangqing Rd Beijing, China",39.88815000000005,116.44133000000011
+16,Yale University,New Haven,United States,"Yale University New Haven, United States",41.314500011108564,-72.92326005554244
+17,Columbia University,New York,United States,"Columbia University 116th Street & Broadway New York, United States",40.80798,-73.963809
+18,EPFL,Lausanne,Switzerland,"Ecole Polytechnique Federale de Lausanne Lausanne, Switzerland",46.519600000000025,6.632220000000075
+19,The University of Edinburgh,Edinburgh,United Kingdom,"University of Edinburgh, Old College South Bridge Edinburgh, United Kingdom",55.94754000000006,-3.1862499999999727
+20,University of Michigan-Ann Arbor,Arbor,United States,"G-664 Haven Hall, 505 South State Street Ann Arbor, United States",42.275825999999995,-83.74066320430143
+21,Peking University,Beijing,China,"No. 5 Yiheyuan Road Haidian District Beijing, China",39.99064000000004,116.28868000000011
+22,The University of Tokyo,Tokyo,Japan,"7-3-1 Hongo Tokyo, Japan",35.711451,139.760046
+23,Johns Hopkins University,Baltimore,United States,"Johns Hopkins University Baltimore, United States",39.32913000000008,-76.61792999999994
+24,Duke University,Durham,United States,"2138 Campus Drive Box 90586 Durham, United States",35.999108900974846,-78.93313863087876
+25,The University of Hong Kong,Hong Kong S.A.R.,China,"Main Building, Pokfulam Road, Pokfulam Pok Fu Lam, Hong Kong S.A.R., China",22.26781993067516,114.13176726462041
+26,The University of Manchester,Manchester,United Kingdom,"The University of Manchester, Oxford Road Manchester, United Kingdom",53.46613999163286,-2.233690051070421
+27,"University of California, Berkeley (UCB)",Berkeley,United States,"Campanile Way Berkeley, United States",37.87154868998462,-122.26003348506195
+28,The Australian National University,Canberra,Australia,"The Australian National University Canberra, Australia",-35.27756999999997,149.12647000000004
+29,University of Toronto,Toronto,Canada,"27 King's College Circle Toronto, Ontario Toronto, Canada",43.66105559449485,-79.39585385472317
+30,Northwestern University,Evanston,United States,"1841 Sheridan Road Evanston, United States",42.04991502148968,-87.67434032415278
+31,The Hong Kong University of Science and Technology,Hong Kong S.A.R.,China,"Clear Water Bay Kowloon, Hong Kong S.A.R., China",22.33312086345093,114.20670271773116
+32,King's College London,London,United Kingdom,"The Strand London, United Kingdom",51.50786000000005,-0.12682999999992717
+33,Kyoto University,Kyoto,Japan,"Yoshida-Honmachi Sakyo-ku Kyoto City, Japan",35.02705021100007,135.78228793900007
+34,McGill University,Montreal,Canada,"3415 McTavish Street Montreal, Canada",45.504977845692146,-73.58038511780836
+35,"University of California, Los Angeles (UCLA)",Los Angeles,United States,"405 Hilgard Avenue Los Angeles, United States",34.073982879778406,-118.43795074126135
+36,Seoul National University,Seoul,South Korea,"1 Gwanak-ro Gwanak-gu Seoul, South Korea",37.472950000000026,126.95303000000001
+37,The University of Melbourne,University Park,Australia,"Grattan Street Parkville, Australia",-37.799631000000005,144.95683050000002
+38,New York University (NYU),New York,United States,"New York University (NYU) New York, United States",40.729709956143,-73.99696006939227
+39,Fudan University,Shanghai,China,"220 Handan Road, Yang Pu Shanghai, China",31.261930000000064,121.51904000000002
+40,KAIST - Korea Advanced Institute of Science & Technology,Daejeon,South Korea,"373-1 Guseong-dong Daejeon, South Korea",36.32257000000004,127.43823000000009
+41,The University of Sydney,Sydney,Australia,"Camperdown Sydney, Australia",-33.88805999999994,151.18321000000003
+42,The University of New South Wales (UNSW Sydney),Sydney,Australia,"High St Kensington, Sydney, Australia",-33.914853,151.22560500000003
+43,The London School of Economics and Political Science (LSE),London,United Kingdom,"Houghton Street London, United Kingdom",51.51381890513925,-0.11663489592740134
+44,"University of California, San Diego (UCSD)",La Jolla,United States,"9500 Gilman Drive La Jolla, United States",32.87696052178432,-117.236538
+45,The Chinese University of Hong Kong (CUHK),Hong Kong S.A.R.,China,"The Chinese University of Hong Kong Sha Tin, Hong Kong S.A.R., China",22.420880001153883,114.20633005669644
+46,The University of Queensland,Brisbane,Australia,"JD Story Building, Level 2, University of Queensland St Lucia Campus 342 Carmody Rd, St Lucia Brisbane, Australia",-27.494648999999995,153.0116145
+47,Carnegie Mellon University,Pittsburgh,United States,"5000 Forbes Avenue Pittsburgh, United States",40.444618539789055,-79.9434
+48,University of Bristol,Bristol,United Kingdom,"Beacon House, Queens Road Bristol, United Kingdom",51.455698447509555,-2.6036239724140544
+49,Delft University of Technology,Delft,Netherlands,"2628 CN Stevinweg 1 Delft, Netherlands",51.998805000000004,4.375574999999998
+50,University of British Columbia,Vancouver,Canada,"2329 West Mall Vancouver, Canada",49.261784796143935,-123.25348399517993
+51,City University of Hong Kong,Hong Kong S.A.R.,China,"83 Tat Chee Ave Kowloon Tong Kowloon, Hong Kong S.A.R., China",22.336747271039673,114.1742548888856
+52,Université PSL,Paris,France,"60 rue Mazarine, Paris, 75006, France",48.8547184612788,2.337915150816757
+53,Zhejiang University,Hangzhou,China,"866 Yuhangtang Road West Lake District Hangzhou, China",30.29365000000007,120.16142000000002
+54,Technical University of Munich,Munich,Germany,"Technical University of Munich, Arcisstraße 21 Munich, Germany",48.1486670347105,11.56867171697776
+55,University of Wisconsin-Madison,Madison,United States,"University of Wisconsin-Madison Madison, United States",43.073109962779384,-89.39661005107041
+56,Brown University,Providence,United States,"Brown University Providence, United States",41.827510076605726,-71.40476997720603
+57,Monash University,Melbourne,Australia,"Wellington Rd & Blackburn Rd Clayton Melbourne, Australia",-37.916334,145.140021
+58,Tokyo Institute of Technology (Tokyo Tech),Tokyo,Japan,"2-12-1 Ookayama Meguro-ku Tokyo, Japan",35.603775,139.68404550000002
+59,Ecole Polytechnique,Palaiseau,France,"Route de Saclay Palaiseau, France",48.71896924024901,2.2165603104753
+60,Shanghai Jiao Tong University,Shanghai,China,"800 Dong Chuan Road Shanghai, China",33.542500000000075,108.84722000000005
+61,The University of Warwick,Coventry,United Kingdom,"Coventry, United Kingdom",52.40518000000003,-1.5085599999999317
+62,Ludwig-Maximilians-Universität München,München,Germany,"Geschwister-Scholl Platz 1 München, Germany",48.15050400000001,11.580518851491854
+63,University of Amsterdam,Amsterdam,Netherlands,"Roeterseiland, REC-E Roetersstraat 11 Amsterdam, Netherlands",52.363845,4.911277500000011
+64,University of Texas at Austin,Austin,United States,"University of Texas at Austin Austin, United States",30.278720000000078,-97.73244999999997
+65,Ruprecht-Karls-Universität Heidelberg,Heidelberg,Germany,"Grabengasse 1 Heidelberg, Germany",49.41130732584107,8.706008031652061
+66,University of Glasgow,Glasgow,United Kingdom,"University Avenue Glasgow, United Kingdom",55.873207254556014,-4.2930237182046875
+67,University of Washington,Seattle,United States,"University of Washington Seattle, United States",47.656510000000026,-122.31208999999996
+68,National Taiwan University (NTU),Taipei,Taiwan,"No.1, Sec. 4, Roosevelt Road, Taipei, Taiwan",25.017001701079145,121.53364137621905
+69,Universiti Malaya (UM),Kuala Lumpur,Malaysia,"Universiti Malaya Jalan Universiti Kuala Lumpur, Malaysia",3.115750000000048,101.65046000000007
+70,Osaka University,Osaka,Japan,"1-1 Yamadaoka, Suita Osaka, Japan",34.818714,135.523845
+71,Georgia Institute of Technology,Atlanta,United States,"North Avenue Atlanta, United States",33.771294,-84.38606024199436
+72,Universidad de Buenos Aires (UBA),Buenos Aires,Argentina,"Viamonte 430 Buenos Aires, Argentina",-34.59977035053957,-58.3731971559813
+73,University of Illinois at Urbana-Champaign,Champaign,United States,"901 West Illinois Street Champaign, United States",40.10900979878736,-88.21937512495813
+74,University of Zurich,Zürich,Switzerland,"Rämistrasse 71 Zürich, Switzerland",47.37473066582039,8.549556841595448
+75,Sorbonne University,Paris,France,"21 Rue de l'Ecole-de-Medecine, Paris, 75006, France",48.85127034026778,2.3404528503953546
+76,Durham University,Durham,United Kingdom,"The University Office The Palatine Centre Durham, United Kingdom",54.77757000000008,-1.5747499999999377
+77,The University of Sheffield,Sheffield,United Kingdom,"Western Bank Sheffield, United Kingdom",53.38094576529891,-1.4899039655332915
+78,KU Leuven,Leuven,Belgium,"Oude Markt 13 Leuven, Belgium",50.87815510294896,4.699540387529072
+79,University of Birmingham,Birmingham,United Kingdom,"Edgbaston Birmingham, United Kingdom",52.465520000000026,-1.935199999999952
+80,University of Copenhagen,Copenhagen,Denmark,"Nørregade 10 Copenhagen, Denmark",55.6800927588147,12.57137700251016
+81,Tohoku University,Sendai,Japan,"2-1-1 Katahira, Aoba-ku Sendai, Japan",38.251503000000014,140.87525850000003
+82,Korea University,Seoul,South Korea,"145 Anam-Ro, Seongbuk-Gu Seoul, South Korea",37.61505000000005,127.02496000000008
+83,The University of Auckland,Auckland,New Zealand,"Auckland CBD Auckland, New Zealand",-36.84839904099994,174.76438785300002
+84,Lomonosov Moscow State University,Moscow,Russia,"GSP-1, Leninskie Gory Moscow, Russia",55.7020322376646,37.529384201222456
+85,Rice University,Houston,United States,"6100 Main Street Houston, United States",29.719755000000006,-95.3999955
+86,The University of Western Australia,Perth,Australia,"35 Stirling Highway Crawley Perth, Australia",-31.980069,115.81881750000002
+87,Pohang University of Science And Technology (POSTECH),Pohang,South Korea,"77 Cheongam-Ro Nam-Gu Pohang, South Korea",36.81444000000005,128.12111000000004
+88,University of Science and Technology of China,Hefei,China,"No. 96?Jinzhai Road Hefei, China",31.863890000000026,117.28083000000004
+89,"University of North Carolina, Chapel Hill",Chapel Hill,United States,"CB #2200, Jackson Hall Chapel Hill, United States",35.9015161853643,-79.0500842405272
+90,The Hong Kong Polytechnic University,Hong Kong S.A.R.,China,"11號 Yuk Choi Rd Hung Hom Kowloon, Hong Kong S.A.R., China",22.302463044513495,114.178798821946
+91,Lund University,Lund,Sweden,"Paradisgatan 2 Lund, Sweden",55.706095499567326,13.193280000000016
+92,Pennsylvania State University,University Park,United States,"State College University Park, United States",41.28703577367089,-92.61451735547342
+93,University of Leeds,Leeds,United Kingdom,"Leeds, United Kingdom",53.794800000000066,-1.5465299999999615
+94,Sungkyunkwan University(SKKU),Suwon,South Korea,"2066 Seobu-ro Jangan-gu Suwon, South Korea",37.25859000000003,127.01598000000001
+95,University of Nottingham,Nottingham,United Kingdom,"University Park Nottingham, United Kingdom",52.9326682577986,-1.2029028729356632
+96,University of Southampton,Southampton,United Kingdom,"University Road Southampton, United Kingdom",50.93508257154689,-1.396357851139525
+97,Boston University,Boston,United States,"One Silber Way Boston, United States",42.35006976207027,-71.10039577626273
+98,KTH Royal Institute of Technology,Stockholm,Sweden,"Brinellvägen 8 Stockholm, Sweden",59.34976970053088,18.070069369611247
+99,University of St Andrews,St. Andrews,United Kingdom,"University of St Andrews St. Andrews, United Kingdom",56.34115000000003,-2.7941599999999767
